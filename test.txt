@@ -1,6 +1,6 @@
 https://github.com/BorisMoore/jquery-tmpl
 
-
+-- add test 1
 
 :id="`imgNum_${d.imgCheck}`"
 
